@@ -1,3 +1,3 @@
 # C4GC_Biocomplexity
 
-Increasing the capabilities and validity of Gene Ontology data. 
+Adding bacterial annotations to the Gene Ontology structure. 
